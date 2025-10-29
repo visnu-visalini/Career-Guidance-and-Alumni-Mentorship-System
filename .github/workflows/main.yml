@@ -1,0 +1,15 @@
+career-mentorship-system/
+├── src/
+│   ├── main/
+│   │   ├── java/com/mentorhub/
+│   │   │   ├── controller/
+│   │   │   ├── model/
+│   │   │   ├── repository/
+│   │   │   ├── service/
+│   │   │   ├── config/
+│   │   │   └── CareerMentorshipApplication.java
+│   │   └── resources/
+│   │       ├── application.properties
+│   │       └── data.sql (optional)
+│   └── test/
+└── pom.xml
